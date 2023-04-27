@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Tarot NFTs</title>
+    <link>https://tarotnfts.art/publication/</link>
+      <atom:link href="https://tarotnfts.art/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://tarotnfts.art/media/sharing.png</url>
+      <title>Publications</title>
+      <link>https://tarotnfts.art/publication/</link>
+    </image>
+    
+  </channel>
+</rss>
