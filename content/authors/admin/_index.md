@@ -31,7 +31,7 @@ role: Creator
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'art.tarotnfts.art'
+    link: 'art@tarotnfts.art'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/tarotnftsart/

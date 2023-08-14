@@ -11,15 +11,15 @@ sections:
       image:
         filename: tarot-featured.jpg
       cta:
-        label: '**Mint**'
-        url: https://mint.tarotnfts.art/
+        label: '**Minting 8/30/2023**'
+        url: https://opensea.io/collection/tarotnfts-art/drop/
       cta_alt:
         label: Learn More
         url: /post/arcana-mind/
       text: |-
         Discover the groundbreaking Arcana Mind NFT collection, fusing Tarot with the power of AI.
 
-        With over 18,000 unique images, each NFT captures the essence of the Tarot like never before.
+        With 17,594 unique images, each NFT captures the essence of the Tarot like never before.
 
         Soon, you can be part of history and mint your own one-of-a-kind Arcana Mind NFT.
 

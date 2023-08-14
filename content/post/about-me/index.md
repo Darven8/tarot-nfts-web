@@ -50,7 +50,7 @@ But it wasn't until I stumbled upon the world of non-fungible tokens (NFTs) that
 
 With this newfound inspiration in mind, I embarked on a mission to create the most unique and awe-inspiring Tarot NFT AI Collection that the world has ever seen. It wasn't easy, as I had to learn everything along the way. But through hard work and determination, I figured it out.
 
-Using the latest in AI technology, I brought to life 18,352 one-of-a-kind Tarot card designs, based on the 22 Major Arana Tarot cards, each with its own unique combination of colors, patterns, and symbolism.
+Using the latest in AI technology, I brought to life 17,594 one-of-a-kind Tarot card designs, based on the 22 Major Arana Tarot cards, each with its own unique combination of colors, patterns, and symbolism.
 
 I poured my heart and soul into this collection, striving to capture the essence of each card’s meaning and symbolism through my art. My hope is that these Tarot NFTs will not only be a beautiful addition to any collection, but also a source of inspiration and enlightenment for all who own them.
 
