@@ -11,7 +11,7 @@ sections:
       image:
         filename: tarot-featured.jpg
       cta:
-        label: '**Minting 8/30/2023**'
+        label: '**Minting Now**'
         url: https://opensea.io/collection/tarotnfts-art/drop/
       cta_alt:
         label: Learn More
